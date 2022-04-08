@@ -1,4 +1,8 @@
-/*
+/*                              
+                                  *# Lesson 1  #*
+                           
+                           *# Dart Programming for Beginners #*
+             
                               *# What is Dart? #*
 
   - Dart is an open-source general-purpose programming language. 
@@ -26,6 +30,6 @@
 
 */
 void main(List<String> args) {
-  print("Lesson -1-");
-  print("Audience_and_prerequisite");
+  print("Line 33 output => " + "Lesson -1-");
+  print("Line 34 output => " + "Audience_and_prerequisite");
 }

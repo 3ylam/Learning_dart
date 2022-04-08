@@ -1,5 +1,10 @@
 /*
-        Executing Dart Script Code
+        
+                            *# Lesson 3  #*
+               
+               *# Dart Programming for Beginners #*
+        
+                      *#  Executing Dart Script Code #*
         
         1- Online with DartPad
         2- Setting Up the Local Environment
@@ -26,7 +31,4 @@
 
 
 */
-void main(List<String> args) {
-  print("Lesson -1-");
-  print("Audience_and_prerequisite");
-}
+void main(List<String> args) {}

@@ -1,8 +1,12 @@
 /*
+                           *# Lesson 4  #*
+              
+                    *# Dart Programming for Beginners #*
+                          
                           *# Dart Programming - Syntax #*
 
               - Syntax defines a set of rules for writing program  code.
-              - Every language spec ification defines its own syntax.
+              - Every language specification defines its own syntax.
               - A Dart program is composed of :
                     1- Variables and Operators
                     2- Classes
@@ -19,7 +23,7 @@
                # Your First Dart Code
 */
 void main(List<String> args) {
-  print("Hello World!");
+  print("Line 108 output => " + "Hello World!");
 
   /*
    1- The main() function is a predefined method in Dart.
@@ -63,6 +67,27 @@ void main(List<String> args) {
         2- Multi-line comments 
             - We us /**/
             - any text or code comes within is treated as a comment
+            
+                     
+                     *# Some Important OOPs Concepts in Dart #*
+                     
+      - dart os an object oriented programming Language , and OOP is a software development paradigm that allows real world modeling 
+      - OOP considers a program as a collection of objects communicate with each other via mechanism called method calling .
+          # Object :
+            - Is a real-time representation of any entity .
+              # entity is any thing that has physical or logical existence .
+            - object has 3 features "as Grady Brooch said":
+                1- State : describe by attributes of an object 
+                2- Behavior : describe how object will act "do some actions"
+                3- Identity : a unique value that distinguishes distinguishes an object from a set of similar such objects.
+          # Class :
+            - In terms of OOP , class is a blueprint for creating an object 
+            - Class encapsulates data for the object .
+            - we define all necessary and common attributes for object inside class and instantiating as many as object we need 
+            - each object has been instantiated has the same attributes "object attributes"of the class and it's own value attributes         
+            - sometimes we need all object to share the same class attributes and value "class field"
+            - we encapsulating data inside class to achieving security of a code 
+            - we define methods to facilitate accessing to these attributes as well  as communicating between classes
  
 */
   // white spaces and break line in action :
@@ -73,9 +98,9 @@ void main(List<String> args) {
 ///////////////////////////////////////////////////////////////////////////////////////
   // Case-sensitive in action :
   var name = 'ahmed';
-  print(name);
+  print("Line 101 output => " + name);
   var Name = 'Ibrahim';
-  print(Name);
+  print("Line 103 output => " + Name);
 /////////////////////////////////////////////////////////////////////////////////////////////
   // Comment in action :
 
