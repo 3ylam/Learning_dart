@@ -32,12 +32,7 @@
 
 */
 void main(List<String> args) {
-
   print("Line 36 output => " + "Hello there!");
   print("Line 37 output => " + "From Lesson -3-");
   print("Line 38 output => " + "Setup Development Environment for Dart");
-
-
-
-
 }
