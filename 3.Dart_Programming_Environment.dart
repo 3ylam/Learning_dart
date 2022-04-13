@@ -18,7 +18,7 @@
           c- Using full IDE:
                - Support:
                     - Eclipse
-                    - IntelliJ
+                    - IntelliJIdea
                     - WebStrom
                     - Android Studio
                - Need a little bit of pre-configurations before start writing dart code .
@@ -31,4 +31,13 @@
 
 
 */
-void main(List<String> args) {}
+void main(List<String> args) {
+
+  print("Line 36 output => " + "Hello there!");
+  print("Line 37 output => " + "From Lesson -3-");
+  print("Line 38 output => " + "Setup Development Environment for Dart");
+
+
+
+
+}

@@ -46,6 +46,10 @@
 
 */
 void main(List<String> args) {
+  print("Line 50 output => " + "Hello there!");
+  print("Line 51 output => " + "From Lesson -6-");
+  print("Line 52 output => " + "Variables in Dart");
+
 // Naming rules in action :
 // alphabets are allowed
   int my_bank_account_id = 3432532;

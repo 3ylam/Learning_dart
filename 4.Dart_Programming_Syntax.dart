@@ -23,7 +23,9 @@
                # Your First Dart Code
 */
 void main(List<String> args) {
-  print("Line 108 output => " + "Hello World!");
+  print("Line 26 output => " + "Hello there!");
+  print("Line 27 output => " + "From Lesson 4");
+  print("Line 28 output => " + "Dart Syntax");
 
   /*
    1- The main() function is a predefined method in Dart.
@@ -98,9 +100,9 @@ void main(List<String> args) {
 ///////////////////////////////////////////////////////////////////////////////////////
   // Case-sensitive in action :
   var name = 'ahmed';
-  print("Line 101 output => " + name);
+  print("Line 101 output => Lower case name value is " + name);
   var Name = 'Ibrahim';
-  print("Line 103 output => " + Name);
+  print("Line 103 output =>  upper case name value is " + Name);
 /////////////////////////////////////////////////////////////////////////////////////////////
   // Comment in action :
 

@@ -70,6 +70,10 @@
 */
 
 void main(List<String> args) {
+  print("Line 74 output => " + "Hello there!");
+  print("Line 75 output => " + "From Lesson -5-");
+  print("Line 76 output => " + "Data-type in Dart");
+
 // valid and non valid identifiers :
   String name; // valid identifier
   String Name; // differ from name above

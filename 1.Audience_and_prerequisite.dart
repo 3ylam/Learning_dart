@@ -30,6 +30,7 @@
 
 */
 void main(List<String> args) {
-  print("Line 33 output => " + "Lesson -1-");
-  print("Line 34 output => " + "Audience_and_prerequisite");
+  print("Line 33 output => " + "Hello there!");
+  print("Line 34 output => " + "From Lesson -1-");
+  print("Line 35 output => " + "Audience and Prerequisites");
 }

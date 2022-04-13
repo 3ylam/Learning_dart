@@ -167,6 +167,10 @@
 */
 
 void main(List<String> args) {
+  print("Line 171 output => " + "Hello there!");
+  print("Line 172 output => " + "From Lesson -7-");
+  print("Line 173 output => " + "Operators in Dart ");
+
 // 1- Arithmetic Operators in action:
 // + sign :
   var $salary = 1000;
